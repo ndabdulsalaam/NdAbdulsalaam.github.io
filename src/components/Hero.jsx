@@ -22,7 +22,7 @@ export default function Hero() {
             <div className="hero-container" data-aos="fade-in">
                 <h1>{profile.name}</h1>
                 <p>
-                    I'm a <span ref={typedRef} className="typed"></span>
+                    I'm <span ref={typedRef} className="typed"></span>
                 </p>
             </div>
         </section>
