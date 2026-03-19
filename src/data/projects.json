@@ -1,0 +1,114 @@
+[
+    {
+        "id": "chicago-divvy",
+        "title": "Chicago-Divvy's Future Success",
+        "description": "I used Chicago Divvy public data to evaluate users' membership conversion rate, determine trends and theorize what was causing them. I was then able to recommend ways improve future success based on those findings.",
+        "category": "analysis",
+        "image": "/images/portfolio/chicago-divvy.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Chicago_divvy_analysis"
+    },
+    {
+        "id": "weratedogs",
+        "title": "WeRateDogs Twitter Analysis",
+        "description": "I conducted comprehensive web scraping operations. Additionally, I engaged in succinct exploratory and explanatory analyses, extracting valuable insights and proposing strategies to enhance tweet retweeting metrics.",
+        "category": "analysis",
+        "image": "/images/portfolio/we-rate-dogs.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/WeRateDogs_twitter_analysis"
+    },
+    {
+        "id": "time-series",
+        "title": "Time Series Analysis",
+        "description": "I used Bitcoin's daily closing market price dataset from Jan 2012 to March 2021 Kaggle for this project. This work's main objective includes explaining how to analyze a time series and forecast its values using ARIMA and GARCH models.",
+        "category": "ml",
+        "image": "/images/portfolio/time-series-analysis.jpeg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/bitcon-prediction-arima-garch-models"
+    },
+    {
+        "id": "ng-election",
+        "title": "Nigeria Presidential Election",
+        "description": "Gathered tweets on the Nigeria General 2023 Election, cleaned and refined the dataset, and crafted an insightful dashboard for in-depth analysis and visualization of election dynamics and public sentiments.",
+        "category": "viz",
+        "image": "/images/portfolio/ng-election-2023.PNG",
+        "projectUrl": "https://app.powerbi.com/view?r=eyJrIjoiYTMxZTMzMzEtYTUxMy00ZmRkLWFkM2UtNGZiYTUzNzZkMmRjIiwidCI6ImY0NjZlYzJjLWZhMGItNGY1Mi04NzMwLTIwM2NhZjQ3Yzk0NSIsImMiOjh9&embedImagePlaceholder=true"
+    },
+    {
+        "id": "prosper-loan",
+        "title": "Prosper Loan Delinquency",
+        "description": "In this project, I analyzed the prosper load data, studied the trends and concluded that monthly income, loan amount and borrower's rate significantly affect the prosper rating and a good predictors of delinquency.",
+        "category": "analysis",
+        "image": "/images/portfolio/prosper-loan-delinquency.webp",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Prosper_loan_eda"
+    },
+    {
+        "id": "super-store",
+        "title": "Super Store Profit Prediction",
+        "description": "In this project, I conducted Exploratory Data Analysis (EDA) and built a linear regression model to gain insights into the superstore data and make informed decisions about marketing and sales strategies.",
+        "category": "ml",
+        "image": "/images/portfolio/super-store.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Superstore_EDA-Profit_Prediction"
+    },
+    {
+        "id": "movie-success",
+        "title": "Movie Success Determinants",
+        "description": "Performed a comprehensive descriptive analysis of movie datasets, identifying trends, extracting actionable insights, and providing strategic recommendations for optimal practices in new movie releases to enhance mass acceptability.",
+        "category": "analysis",
+        "image": "/images/portfolio/movie-success.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Movie_success_determinants"
+    },
+    {
+        "id": "apartments-price",
+        "title": "Predicting Apartments Price",
+        "description": "The main aim of the work is to emphasize the various steps needed to build such a model. I also explained the possible methods to deploy the model, including wrapping the model in a function to implement a program.",
+        "category": "ml",
+        "image": "/images/portfolio/mexico-city.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Predict_apartment_prices-in-mexico"
+    },
+    {
+        "id": "road-accident",
+        "title": "Road Accident Dashboard",
+        "description": "Employed DAX for advanced measurement calculations. Emphasized analyzing major causes of casualties and identifying vehicles most susceptible to these incidents for informed decision-making and preventive measures.",
+        "category": "viz",
+        "image": "/images/portfolio/road-accident.JPG",
+        "projectUrl": "https://app.powerbi.com/view?r=eyJrIjoiMmMzMjA5ODMtZDc0ZC00NzY5LThlODktOTBmYmIxNGVjM2MzIiwidCI6ImY0NjZlYzJjLWZhMGItNGY1Mi04NzMwLTIwM2NhZjQ3Yzk0NSIsImMiOjh9&embedImagePlaceholder=true"
+    },
+    {
+        "id": "market-basket",
+        "title": "Market Basket Analysis",
+        "description": "In business analysis, the Apriori algorithm can be used to analyze transactional data and identify items frequently purchased together, such as pairs of items. This information can inform marketing strategies, such as cross-selling.",
+        "category": "analysis",
+        "image": "/images/portfolio/Market-Basket-Analysis.webp",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Market-Business-Analysis-Apriori"
+    },
+    {
+        "id": "air-sensor",
+        "title": "Faulty Air Quality Sensor",
+        "description": "Developed a multi-class classification model to identify and classify faults according to specified categories. The model can be used to flag a device returning faulty data automatically. It helps in the early diagnosis of faulty.",
+        "category": "ml",
+        "image": "/images/portfolio/air-sensor.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Faulty_Air_Quality_Sensor_Challenge"
+    },
+    {
+        "id": "hr-analytics",
+        "title": "Human Resources Management",
+        "description": "Crafted an insightful HR dashboard focusing on gender distribution, promotion eligibility, retirement projections, and commute distance analysis. It helps for effective workforce management.",
+        "category": "viz",
+        "image": "/images/portfolio/hr-analytics.JPG",
+        "projectUrl": "https://app.powerbi.com/view?r=eyJrIjoiYjBmNzVlZmYtYjY3Zi00NmRiLWI2YWEtYjgxNDUwODUxMTUxIiwidCI6ImY0NjZlYzJjLWZhMGItNGY1Mi04NzMwLTIwM2NhZjQ3Yzk0NSIsImMiOjh9"
+    },
+    {
+        "id": "mystery-fiftyville",
+        "title": "Mystery in Fiftyville",
+        "description": "Welcome to my SQL research project! I used SQL to analyze and investigate a large dataset to find patterns, trends, and insights that might take time, if not impossible, to discover from the raw data.",
+        "category": "analysis",
+        "image": "/images/portfolio/robbery-scene.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/Mystery-in-Fiftyville"
+    },
+    {
+        "id": "earthquake-damage",
+        "title": "Earthquake Damage",
+        "description": "I developed a model to predict the severity of earthquakes in Kavrepalanchok. The purpose is to obtain the best model and depth for the prediction and to emphasize the various steps needed to build such a model.",
+        "category": "ml",
+        "image": "/images/portfolio/earthquake-damage.jpg",
+        "projectUrl": "https://github.com/NdAbdulsalaam/ML-Eathquake-Damage-Prediction"
+    }
+]
