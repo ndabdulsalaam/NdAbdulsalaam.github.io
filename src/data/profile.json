@@ -1,17 +1,20 @@
 {
     "name": "Nurudeen Abdulsalaam",
     "titles": [
-        "Back-end Developer",
-        "Data Scientist"
+        "a Pharmacist",
+        "an Epidemiologist",
+        "a Data Scientist"
     ],
-    "about": "Experienced data scientist and analyst skilled in statistical analysis, data visualization, machine learning. Expertise Python, SQL, Power BI & Excel.",
-    "tagline": "Leveraging data to drive strategic decision-making and business growth!",
+    "about": "Pharmacist and epidemiologist turned data scientist, bridging healthcare domain expertise with advanced analytics and machine learning. I transform complex health data into actionable insights — from disease surveillance and pharmacovigilance to predictive modelling for public health outcomes.",
+    "tagline": "Where pharmacy meets epidemiology meets data science — turning health data into life-saving decisions.",
     "expertise": [
-        "Data Query & Wrangling",
-        "Data Analysis",
-        "Data Visualization",
-        "Machine Learning",
-        "API Development"
+        "Epidemiological Data Analysis",
+        "Pharmacovigilance & Drug Safety Analytics",
+        "Machine Learning for Health Outcomes",
+        "Biostatistics & Statistical Modelling",
+        "Public Health Data Visualization",
+        "Clinical Data Wrangling & ETL",
+        "Predictive Analytics & Forecasting"
     ],
     "skills": [
         {
@@ -23,40 +26,40 @@
             "level": 85
         },
         {
-            "name": "R Programming",
+            "name": "R / Biostatistics",
             "level": 86
         },
         {
-            "name": "Pandas",
+            "name": "Pandas / NumPy",
             "level": 85
-        },
-        {
-            "name": "PyTorch",
-            "level": 70
-        },
-        {
-            "name": "Excel",
-            "level": 87
-        },
-        {
-            "name": "Power BI",
-            "level": 80
         },
         {
             "name": "Scikit-learn",
             "level": 82
         },
         {
-            "name": "TensorFlow",
-            "level": 73
+            "name": "Power BI / Tableau",
+            "level": 80
         },
         {
-            "name": "Django",
+            "name": "TensorFlow / PyTorch",
+            "level": 72
+        },
+        {
+            "name": "Excel / SPSS",
+            "level": 87
+        },
+        {
+            "name": "Django / FastAPI",
             "level": 85
+        },
+        {
+            "name": "EPI Tools (REDCap, DHIS2)",
+            "level": 70
         }
     ],
     "contact": {
-        "location": "Lagos, Nigeria",
+        "location": "Oyo State, Nigeria",
         "email": "ndabdulsalaam@gmail.com",
         "phone": "+2348168874902"
     },
@@ -66,5 +69,5 @@
         "linkedin": "https://www.linkedin.com/in/ndabdulsalaam",
         "twitter": "https://x.com/ndabdulsalaam"
     },
-    "profileImage": "/images/profile-img.jpg"
+    "profileImage": "/images/profile-img.png"
 }
