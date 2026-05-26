@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import profile from '../data/profile.json';
 
 export default function Sidebar({ activeSection }) {
