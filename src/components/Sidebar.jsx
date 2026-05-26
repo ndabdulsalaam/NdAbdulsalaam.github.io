@@ -31,8 +31,8 @@ export default function Sidebar({ activeSection }) {
                             <a href="#hero">{profile.name}</a>
                         </h1>
                         <div className="social-links mt-3 text-center">
-                            <a href={profile.social.linktree} target="_blank" rel="noreferrer">
-                                <i className="bx bx-link"></i>
+                            <a href={profile.social.fildah} target="_blank" rel="noreferrer">
+                                <i className="bx bx-globe"></i>
                             </a>
                             <a href={profile.social.github} target="_blank" rel="noreferrer">
                                 <i className="bx bxl-github"></i>
@@ -40,9 +40,9 @@ export default function Sidebar({ activeSection }) {
                             <a href={profile.social.linkedin} target="_blank" rel="noreferrer">
                                 <i className="bx bxl-linkedin"></i>
                             </a>
-                            <a href={profile.social.twitter} target="_blank" rel="noreferrer">
+                            {/* <a href={profile.social.twitter} target="_blank" rel="noreferrer">
                                 <i className="bx bxl-twitter"></i>
-                            </a>
+                            </a> */}
                             <a href={`mailto:${profile.contact.email}`}>
                                 <i className="bx bx-envelope"></i>
                             </a>
