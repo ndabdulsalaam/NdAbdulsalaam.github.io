@@ -3,34 +3,34 @@
     "titles": [
         "a Pharmacist",
         "an Epidemiologist",
-        "a Data Scientist"
+        "an AI/ML Engineer"
     ],
-    "about": "Pharmacist and epidemiologist turned data scientist, bridging healthcare domain expertise with advanced analytics and machine learning. I transform complex health data into actionable insights — from disease surveillance and pharmacovigilance to predictive modelling for public health outcomes.",
-    "tagline": "Where pharmacy meets epidemiology meets data science — turning health data into life-saving decisions.",
+    "about": "Pharmacist and epidemiologist turned AI/ML engineer, bridging deep healthcare domain expertise with modern machine learning and LLM integration. I build intelligent health systems — from RAG-powered clinical assistants and pharmacovigilance analytics to predictive modelling and public health data pipelines.",
+
     "expertise": [
-        "Epidemiological Data Analysis",
+        "LLM Integration & RAG Pipeline Development",
+        "AI-Powered Healthcare Applications",
         "Pharmacovigilance & Drug Safety Analytics",
         "Machine Learning for Health Outcomes",
-        "Biostatistics & Statistical Modelling",
-        "Public Health Data Visualization",
         "Clinical Data Wrangling & ETL",
+        "Full-Stack Development (Django & React)",
         "Predictive Analytics & Forecasting"
     ],
     "skills": [
         { "name": "Python", "level": 90 },
+        { "name": "EPI Tools (REDCap, DHIS2)", "level": 80 },
+        { "name": "LLM Integration (OpenAI, Claude, DeepSeek)", "level": 82 },
+        { "name": "RAG Pipelines / Vector Search", "level": 85 },
+        { "name": "LangChain", "level": 78 },
+        { "name": "pgvector / Embeddings", "level": 75 },
+        { "name": "TensorFlow / PyTorch", "level": 72 },
+        { "name": "Django / FastAPI / REST APIs", "level": 85 },
+        { "name": "Excel / SPSS", "level": 87 },
         { "name": "SQL", "level": 85 },
         { "name": "R / Biostatistics", "level": 86 },
         { "name": "Pandas / NumPy", "level": 85 },
         { "name": "Scikit-learn", "level": 82 },
         { "name": "Power BI / Tableau", "level": 80 },
-        { "name": "TensorFlow / PyTorch", "level": 72 },
-        { "name": "Excel / SPSS", "level": 87 },
-        { "name": "Django / FastAPI / REST APIs", "level": 85 },
-        { "name": "EPI Tools (REDCap, DHIS2)", "level": 70 },
-        { "name": "LLM Integration (OpenAI, Claude, DeepSeek)", "level": 82 },
-        { "name": "RAG Pipelines / Vector Search", "level": 80 },
-        { "name": "LangChain", "level": 78 },
-        { "name": "pgvector / Embeddings", "level": 75 },
         { "name": "React", "level": 80 },
         { "name": "Docker / VPS Deployment", "level": 74 }
     ],
