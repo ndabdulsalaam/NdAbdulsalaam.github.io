@@ -3,7 +3,7 @@
     "titles": [
         "a Pharmacist",
         "an Epidemiologist",
-        "an AI/ML Engineer"
+        "a Data Scientist"
     ],
     "about": "Pharmacist and epidemiologist turned data scientist, bridging healthcare domain expertise with advanced analytics and machine learning. I transform complex health data into actionable insights — from disease surveillance and pharmacovigilance to predictive modelling for public health outcomes.",
     "tagline": "Where pharmacy meets epidemiology meets data science — turning health data into life-saving decisions.",
@@ -17,46 +17,22 @@
         "Predictive Analytics & Forecasting"
     ],
     "skills": [
-        {
-            "name": "Python",
-            "level": 90
-        },
-        {
-            "name": "SQL",
-            "level": 85
-        },
-        {
-            "name": "R / Biostatistics",
-            "level": 86
-        },
-        {
-            "name": "Pandas / NumPy",
-            "level": 85
-        },
-        {
-            "name": "Scikit-learn",
-            "level": 82
-        },
-        {
-            "name": "Power BI / Tableau",
-            "level": 80
-        },
-        {
-            "name": "TensorFlow / PyTorch",
-            "level": 72
-        },
-        {
-            "name": "Excel / SPSS",
-            "level": 87
-        },
-        {
-            "name": "Django / FastAPI",
-            "level": 85
-        },
-        {
-            "name": "EPI Tools (REDCap, DHIS2)",
-            "level": 70
-        }
+        { "name": "Python", "level": 90 },
+        { "name": "SQL", "level": 85 },
+        { "name": "R / Biostatistics", "level": 86 },
+        { "name": "Pandas / NumPy", "level": 85 },
+        { "name": "Scikit-learn", "level": 82 },
+        { "name": "Power BI / Tableau", "level": 80 },
+        { "name": "TensorFlow / PyTorch", "level": 72 },
+        { "name": "Excel / SPSS", "level": 87 },
+        { "name": "Django / FastAPI / REST APIs", "level": 85 },
+        { "name": "EPI Tools (REDCap, DHIS2)", "level": 70 },
+        { "name": "LLM Integration (OpenAI, Claude, DeepSeek)", "level": 82 },
+        { "name": "RAG Pipelines / Vector Search", "level": 80 },
+        { "name": "LangChain", "level": 78 },
+        { "name": "pgvector / Embeddings", "level": 75 },
+        { "name": "React", "level": 80 },
+        { "name": "Docker / VPS Deployment", "level": 74 }
     ],
     "contact": {
         "location": "Oyo State, Nigeria",
